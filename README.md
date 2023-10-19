@@ -236,7 +236,7 @@ python turn_to_eval.py
 #It will generate the "WA_result_Score.txt", "SM_result_Score.txt", and "FT_result_Score.txt" in the Score folder.
 python conlleval.py
 
-#It will generate the "Overall_Score.txt" in the "Score" folder.
+#It will generate the "Overall_Score.txt" in the Score folder.
 python socre.py
 ```
 # Results
