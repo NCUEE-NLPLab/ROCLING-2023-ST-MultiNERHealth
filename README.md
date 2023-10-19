@@ -222,7 +222,7 @@ We hope the data sets collected and annotated for this shared task can facilitat
 * ROCLING-2022 Shared Task (train, for WA genre)  
 <a href="https://github.com/NCUEE-NLPLab/ROCLING-2022-ST-CHNER" target="_blank">https://github.com/NCUEE-NLPLab/ROCLING-2022-ST-CHNER</a>
 * ROCLING-2023 Shared Task (test, this repository)  
-<a href="https://github.com/NCUEE-NLPLab/ROCLING-2023-ST-CHNER" target="_blank">https://github.com/NCUEE-NLPLab/ROCLING-2022-ST-CHNER</a> 
+<a href="https://github.com/NCUEE-NLPLab/ROCLING-2023-ST-MultiNERHealth" target="_blank">https://github.com/NCUEE-NLPLab/ROCLING-2023-ST-MultiNERHealth</a> 
 
 
 # Evaluation
