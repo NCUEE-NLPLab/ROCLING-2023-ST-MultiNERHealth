@@ -253,29 +253,29 @@ The policy of this shared task is an open test. Participating systems are allowe
 # Citation
 Please cite the following paper for ROCLING 2023 MultiNER-Health Datasets:
 
-Lung-Hao Lee, Tzu-Mi Lin, and Chao-Yi Chen. 2023. Overview of the ROCLING 2023 Shared Task for Chinese Multi-genre Named Entity Recognition in the Healthcare Domain. In *Proceedings of the 35th Conference on Computational Linguistics and Speech Processing*, .
+Lung-Hao Lee, Tzu-Mi Lin, and Chao-Yi Chen. 2023. Overview of the ROCLING 2023 Shared Task for Chinese Multi-genre Named Entity Recognition in the Healthcare Domain. In *Proceedings of the 35th Conference on Computational Linguistics and Speech Processing*, pp. 333-338.
 
 @article{ROCLING 2023,  
 author={Lung-Hao Lee, Tzu-Mi Lin, and Chao-Yi Chen},  
 title={Overview of the ROCLING 2023 Shared Task for Chinese Multi-genre Named Entity Recognition in the Healthcare Domain},  
 year={2023},  
 conference={In Proceedings of the 35th Conference on Computational Linguistics and Speech Processing},  
-pages={}  
+pages={333-338}  
 }
 
 # References
-Lung-Hao Lee, and Yi Lu. 2021. Multiple embeddings enhanced multi-graph neural networks for Chinese healthcare named entity recognition. IEEE Journal of Biomedical and Health Informatics, 25(7): 2801-2810.  
+Lung-Hao Lee, and Yi Lu. 2021. Multiple embeddings enhanced multi-graph neural networks for Chinese healthcare named entity recognition. *IEEE Journal of Biomedical and Health Informatics*, 25(7): 2801-2810.  
 
-Lung-Hao Lee, Chao-Yi Chen, Liang-Chih Yu, and Yuen-Hsien Tseng. 2022. Overview of the ROCLING 2022 shared task for Chinese healthcare named entity recognition. In Proceedings of the 34th Conference on Computational Linguistics and Speech Processing. The Association for Computational Linguistics and Chinese Language Processing, pages 363-368.
+Lung-Hao Lee, Chao-Yi Chen, Liang-Chih Yu, and Yuen-Hsien Tseng. 2022. Overview of the ROCLING 2022 shared task for Chinese healthcare named entity recognition. In *Proceedings of the 34th Conference on Computational Linguistics and Speech Processing*, pp. 363-368.
  
-Yin-Chieh Wang, Wen-Hong Wu, Feng-Yu Kuo, Han- Chun Wu, Te-Yu Chi, Te-Lun Yang, Sheh Chen, and Jyh-Shing Roger Jang. 2023. CrowNER at ROCLING 2023 MultiNER-Health Task: enhancing NER task with GPT paraphrase augmentation on sparsely labeled data. In *Proceedings of the 35th Conference on Computational Linguistics and Speech Processing*, pp. .
+Yin-Chieh Wang, Wen-Hong Wu, Feng-Yu Kuo, Han- Chun Wu, Te-Yu Chi, Te-Lun Yang, Sheh Chen, and Jyh-Shing Roger Jang. 2023. CrowNER at ROCLING 2023 MultiNER-Health Task: enhancing NER task with GPT paraphrase augmentation on sparsely labeled data. In *Proceedings of the 35th Conference on Computational Linguistics and Speech Processing*, pp. 339-349.
   
-Chonglin Pang, You Zhang, and Xiaobing Zhou. YUN- HPCC at ROCLING 2023 MultiNER-Health Task: a transformer-based approach for Chinese healthcare NER. In  *Proceedings of the 35th Conference on Computational Linguistics and Speech Processing*, pp. .
+Chonglin Pang, You Zhang, and Xiaobing Zhou. YUN- HPCC at ROCLING 2023 MultiNER-Health Task: a transformer-based approach for Chinese healthcare NER. In  *Proceedings of the 35th Conference on Computational Linguistics and Speech Processing*, pp. 317-324.
 
-Jun-Jie Wu, Tao-Hsing Chang, and Fu-Yuan Hsu. 2023. ISLab at ROCLING 2023 MultiNER-Health Task: a three-stage NER model combining textual content and label semantics. In *Proceedings of the 35th Conference on Computational Linguistics and Speech Processing*, pp. .
+Jun-Jie Wu, Tao-Hsing Chang, and Fu-Yuan Hsu. 2023. ISLab at ROCLING 2023 MultiNER-Health Task: a three-stage NER model combining textual content and label semantics. In *Proceedings of the 35th Conference on Computational Linguistics and Speech Processing*, pp. 359-366.
 
-Tzu-En Su, Ruei-Cyuan Su, Ming-Hsiang Su, and Tsung-Hsien Yang. 2023. 2023. SCU-MESCLab at ROCLING-2023 Shared Task: Named Entity Recognition Using Multiple Classifier Model. In *Proceedings of the 35th Conference on Computational Linguistics and Speech Processing*, pp. .
+Tzu-En Su, Ruei-Cyuan Su, Ming-Hsiang Su, and Tsung-Hsien Yang. 2023. 2023. SCU-MESCLab at ROCLING-2023 Shared Task: Named Entity Recognition Using Multiple Classifier Model. In *Proceedings of the 35th Conference on Computational Linguistics and Speech Processing*, pp. 311-316.
 
-Xingwei Zhang, Jin Wang, and Xuejie Zhang. 2023. YUN-ISE-ZXW at ROCLING 2023 MultiNER- Health Task: a transformer-based model with LoRA for Chinese healthcare named entity recognition. In *Proceedings of the 35th Conference on Computational Linguistics and Speech Processing*, pp. 316-320.
+Xingwei Zhang, Jin Wang, and Xuejie Zhang. 2023. YUN-ISE-ZXW at ROCLING 2023 MultiNER- Health Task: a transformer-based model with LoRA for Chinese healthcare named entity recognition. In *Proceedings of the 35th Conference on Computational Linguistics and Speech Processing*, pp. 325-332.
 
-Xuelin Wang and Qihao Yang. 2023. LingX at ROCLING 2023 MultiNER-Health Task: intelligent capture of Chinese medical named entities by LLMs. In *Proceedings of the 35th Conference on Computational Linguistics and Speech Processing*, pp. 350-355.
+Xuelin Wang and Qihao Yang. 2023. LingX at ROCLING 2023 MultiNER-Health Task: intelligent capture of Chinese medical named entities by LLMs. In *Proceedings of the 35th Conference on Computational Linguistics and Speech Processing*, pp. 350-358.
